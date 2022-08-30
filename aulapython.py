@@ -10,10 +10,13 @@
 # foo('LuizaCode')
 
 
-def ExercicioExtra(meu_dia):
-   print(f'Hoje é o meu {meu_dia}')
+# def ExercicioExtra(meu_dia):
+#    print(f'Hoje é o meu {meu_dia}')
   
-ExercicioExtra ('aniversário!')
+# ExercicioExtra ('aniversário!')
 
 
-    
+def ExercicioExtra(minha_data, meu_dia):
+   print(f'Hoje, dia {minha_data} é o meu {meu_dia}!')
+  
+ExercicioExtra ('30 de agosto','aniversário') 
