@@ -4,16 +4,16 @@
 # soma = reduce(lambda x, y: x+y, lista, 5)
 # print (soma)
 
-def foo(value):
-    print(f'Olá, esse é o meu parametro: {value}')
+# def foo(value):
+#     print(f'Olá, esse é o meu parametro: {value}')
 
-foo('LuizaCode')
+# foo('LuizaCode')
 
 
-# def ExercicioExtra(meu_dia):
-#   print(f'Hoje é o meu {meu_dia}')
+def ExercicioExtra(meu_dia):
+   print(f'Hoje é o meu {meu_dia}')
   
-# ExercicioExtra ('aniversário!')
+ExercicioExtra ('aniversário!')
 
 
     
