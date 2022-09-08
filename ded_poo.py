@@ -12,12 +12,13 @@ class Dwarf(Raca):
             super().__init__(tamanho, deslocamento, idioma, bonus, penalidade)
 
         def get_personagem(self):   
-            return f"Atributos do personagem, respectivamente, são {self.tamanho}, {self.deslocamento}, {self.idioma}, {self.bonus}, {self.penalidade} e {self.proeficiencia}."
+            return f"Atributos do personagem, respectivamente, são: {self.tamanho}, {self.deslocamento}, {self.idioma}, {self.bonus}, {self.penalidade} e {self.proeficiencia}."
 
 Oona = Dwarf('Medio',6,'Comum','Constituição','Carisma', 'Navegacao')      
 
 personagem1 = Oona.get_personagem()
 print(personagem1)
+
 
 
 
