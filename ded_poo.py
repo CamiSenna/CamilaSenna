@@ -1,6 +1,3 @@
-from re import M
-
-
 class Raca:
     def __init__(self, tamanho, deslocamento, idioma, bonus, penalidade):
         self.tamanho = tamanho
