@@ -1,6 +1,6 @@
 # Camila Senna
 
- <img src="fotoeu.jpeg?w=512">
+ <img src="fotoeu.jpeg?w=512" width="400px;">
 
 ## Um pouco mais sobre a Camila
 - Carioca, morando em Porto Alegre um pouco mais de quatro anos.
